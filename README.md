@@ -1,6 +1,6 @@
 # Mare Synchronos Dalamud Plugin
 
-Available at [This dalamud Repo](https://raw.githubusercontent.com/Project-NewDawn/repo/main/pluginmaster.json)
+Available at [This dalamud Repo](https://raw.githubusercontent.com/Project-NewDawn/repo/main/Pluginmaster.json)
 
 # [New Dawn Discord](https://discord.gg/esBZXZHpUt)
 
